@@ -7,7 +7,7 @@ header-image: electriciron.jpeg
 header-title: Electric Iron
 header-tier: banner
 header-position: center 38%
-thumbnail: electriciron-1.jpeg
+thumbnail: electriciron.jpeg
 summary: The household item that changed the way women work.
 geo: [43.5197, -112.0469]
 placename: Argonne National Laboratory in Idaho
