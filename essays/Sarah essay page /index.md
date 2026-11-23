@@ -3,7 +3,7 @@ title: The Electric iron
 layout: base
 author: Sarah Rivera
 date: 2026-01-01
-header-image: !!electriciron.jpeg
+header-image: electriciron.jpeg
 header-title: Electric Iron
 header-tier: banner
 header-position: center 38%
