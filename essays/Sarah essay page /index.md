@@ -3,11 +3,10 @@ title: The Electric iron
 layout: base
 author: Sarah Rivera
 date: 2026-01-01
-header-image: sarahrivvera/museum-of-energy/essays/Sarah essay page /images/electriciron.jpeg
 header-title: Electric Iron
 header-tier: banner
 header-position: center 38%
-thumbnail: sarahrivvera/museum-of-energy/essays/Sarah essay page /images/electriciron.jpeg
+thumbnail: essays/Sarahessaypage/electriciron.jpeg
 summary: The household item that changed the way women work.
 geo: [43.5197, -112.0469]
 placename: Argonne National Laboratory in Idaho
