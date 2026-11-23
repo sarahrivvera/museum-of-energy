@@ -1,14 +1,14 @@
 ---
-title: Nuclear Energy
+title: The Electric iron
 layout: base
-author: Your Name
+author: Sarah Rivera
 date: 2026-01-01
-header-image: images/rancho-seco.jpg
-header-title: Nuclear Energy
+header-image: ![alt text](<images (1).jpeg>)
+header-title: Electric Iron
 header-tier: banner
 header-position: center 38%
 thumbnail: images/energy.jpeg
-summary: The first four light bulbs powered by nuclear energy in 1951.
+summary: The household item that changed the way women work.
 geo: [43.5197, -112.0469]
 placename: Argonne National Laboratory in Idaho
 medium: 
@@ -21,7 +21,7 @@ tags:
 
 # Nuclear Energy
 
-This is sample content. Replace it with your essay, images about your topic, and at the end an image of your 3D-printed object. 
+The electric iron is an everyday object that shows how electricity changed people's lives. Today, ironing clothes might seem like a normal household task, but electric irons made the process easier and more convenient than older methods. Before electric irons became common, people used irons that had to be heated on a stove or another heat source. The introduction 
 
 {% include images/figure.html
   image-path="images/energy.jpeg"
